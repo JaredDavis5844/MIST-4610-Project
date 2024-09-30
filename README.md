@@ -17,7 +17,7 @@ The goal of this project is to model and build a relational database that captur
 ------------------------------
 ![image](https://github.com/user-attachments/assets/4425907d-7e07-4897-8a02-1329e04469b9)
 
-Explanation of Data Model:
+**Explanation of Data Model:**
 
 Our model is based on the structure of a UFC event management system. At the base of the model is the PPV entity, which represents each major UFC event. Each of the PPV event involves several entities, including fighters, commentary crew, venues, referees, and detailed statistics about the fights.
 
@@ -39,7 +39,7 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 * Referees: Referees officiate the fights, and their experience and performance (e.g., points deducted from fighters) are tracked. There is a one-to-many relationship between referees and PPV events, as a referee can officiate multiple events but each fight has a single referee.
 
-Key Relationships:
+**Key Relationships:**
 
 * Fighters (Winner/Loser) ↔ Fight Kit: Fighters wear specific gear (fight kit) during each event, so a many-to-one relationship exists between these entities.
 * Fighters ↔ Title Reign: Fighters may have title reigns that are tracked for championships they hold or defend, creating a one-to-one relationship.
