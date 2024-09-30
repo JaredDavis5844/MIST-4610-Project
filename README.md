@@ -40,13 +40,14 @@ Our model is based on the structure of a UFC event management system. At the bas
 * Referees: Referees officiate the fights, and their experience and performance (e.g., points deducted from fighters) are tracked. There is a one-to-many relationship between referees and PPV events, as a referee can officiate multiple events but each fight has a single referee.
 
 Key Relationships:
-*Fighters (Winner/Loser) ↔ Fight Kit: Fighters wear specific gear (fight kit) during each event, so a many-to-one relationship exists between these entities.
-*Fighters ↔ Title Reign: Fighters may have title reigns that are tracked for championships they hold or defend, creating a one-to-one relationship.
-*PPV ↔ Venue: A PPV event occurs at a specific venue, creating a many-to-one relationship.
-*PPV ↔ Commentary Crew: Multiple commentary crew members work on a single PPV event, creating a one-to-many relationship.
-Fighters (Winner/Loser) ↔ Social Media Following: Each fighter has an associated social media following, creating a one-to-one relationship.
-PPV ↔ Referees: Each fight within a PPV event has one referee, so there is a one-to-many relationship between referees and the PPV.
-PPV ↔ Fight Stats: Fight statistics are tied to each PPV event to analyze fighter performance.
+
+* Fighters (Winner/Loser) ↔ Fight Kit: Fighters wear specific gear (fight kit) during each event, so a many-to-one relationship exists between these entities.
+* Fighters ↔ Title Reign: Fighters may have title reigns that are tracked for championships they hold or defend, creating a one-to-one relationship.
+* PPV ↔ Venue: A PPV event occurs at a specific venue, creating a many-to-one relationship.
+* PPV ↔ Commentary Crew: Multiple commentary crew members work on a single PPV event, creating a one-to-many relationship.
+* Fighters (Winner/Loser) ↔ Social Media Following: Each fighter has an associated social media following, creating a one-to-one relationship.
+* PPV ↔ Referees: Each fight within a PPV event has one referee, so there is a one-to-many relationship between referees and the PPV.
+* PPV ↔ Fight Stats: Fight statistics are tied to each PPV event to analyze fighter performance.
 
 **Data Dictionary**
 ------------------------------
