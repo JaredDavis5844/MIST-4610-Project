@@ -17,3 +17,4 @@ MIST 4610 Project 1 (Query Weary)
 
 
 **Data Dictionary**
+------------------------------
