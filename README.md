@@ -19,5 +19,7 @@ The goal of this project is to model and build a relational database that captur
 
 Explanation of Data Model:
 
+Our model is based on the structure of a UFC event management system. At the base of the model is the PPV entity, which represents each major UFC event. Each of the PPV event involves several entities, including fighters, commentary crew, venues, referees, and detailed statistics about the fights.
+
 **Data Dictionary**
 ------------------------------
