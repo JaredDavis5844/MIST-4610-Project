@@ -51,3 +51,4 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 **Data Dictionary**
 ------------------------------
+**Table: Winner of Headliner**
