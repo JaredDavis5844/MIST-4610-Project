@@ -14,6 +14,7 @@ MIST 4610 Project 1 (Query Weary)
 
 **Data Model**
 ------------------------------
+![image](https://github.com/user-attachments/assets/4425907d-7e07-4897-8a02-1329e04469b9)
 
 
 **Data Dictionary**
