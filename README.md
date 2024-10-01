@@ -53,17 +53,21 @@ Our model is based on the structure of a UFC event management system. At the bas
 ------------------------------
 **Table: Winner of Headliner**
 Column Name	Description	Data Type	Size	Format	Key?
-idFighter	PK, unique identifier for each fighter	INT	3		PK
-Name_of_Fighter	Name of the fighter	VARCHAR	45		
+idWinner_of_Headliner	PK, unique identifier for each fighter	INT	3		PK
+Name_of_Winner	Name of the fighter	VARCHAR	45		
 Country_of_Origin	Fighter's country of origin	VARCHAR	45		
 Language	Native language of the fighter	VARCHAR	45		
 Weight_Class	The fighter’s weight class (e.g., Lightweight, Heavyweight)	INT	2		
+Fighting_Style	The fighter's fighting style (Striker, Boxer, Wrestling)	VARCHAR	46		
 Wins_on_Record	Number of wins recorded	INT	2		
 Losses_on_Record	Number of losses recorded	INT	2		
+Age	Fighter's age 	INT			
 Height	Height of the fighter in meters	DECIMAL	(5,2)		
 Reach	Reach of the fighter in centimeters	INT	3		
 Title_Reign_idTitle_Reign	FK, relationship with the title reign table	INT	3		FK
-![image](https://github.com/user-attachments/assets/e0d2b871-c768-4ac5-b495-da331a578e2c)
+Social_Media_Following_idSocial_Media_Following	FK, relationship with Social Media Following table	INT	3		FK
+![image](https://github.com/user-attachments/assets/dd87befa-b490-4aa8-bb3e-05c2398271c3)
+
 
 
 **Queries:**
