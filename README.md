@@ -54,9 +54,19 @@ Our model is based on the structure of a UFC event management system. At the bas
 **Table: Winner of Headliner**
 ![image](https://github.com/user-attachments/assets/dd87befa-b490-4aa8-bb3e-05c2398271c3)
 
-**Loser of Headliner**
+**Table: Loser of Headliner**
 ![image](https://github.com/user-attachments/assets/05ea4c32-143b-4428-9d56-eb32a29199e8)
 
+**Table: Social Media Following**
+![image](https://github.com/user-attachments/assets/da00079b-f4bf-4123-b5d5-96f9274053b8)
+
+**Table: Fight Kit**
+![image](https://github.com/user-attachments/assets/03f9e5bd-a73a-4d80-8ecf-cc8d13249001)
+
+**Table: Title Reign**
+
+**Table: PPV**
+![image](https://github.com/user-attachments/assets/12ef78d8-f57e-4cc3-9221-c7b04ff08c67)
 
 
 **Queries:**
