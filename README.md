@@ -99,3 +99,8 @@ Our model is based on the structure of a UFC event management system. At the bas
 9. Query 9
 
 10. Query 10
+
+**Database Information**
+----------------------------
+Name of the database: 
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
