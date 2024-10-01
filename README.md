@@ -82,7 +82,8 @@ Age	Age of the fighter	INT	2
 Height	Height of the fighter in centimeters	DECIMAL	(5,2)		
 Reach	Reach of the fighter in centimeters	INT	3		
 Title_Reign_idTitle_Reign	FK, relationship with the title reign table	INT	3		FK
-![image](https://github.com/user-attachments/assets/ddb6a8ee-c80f-412f-87e8-1a00fd26dbf3)
+![image](https://github.com/user-attachments/assets/05ea4c32-143b-4428-9d56-eb32a29199e8)
+
 
 
 **Queries:**
