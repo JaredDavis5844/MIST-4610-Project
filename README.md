@@ -68,6 +68,14 @@ Our model is based on the structure of a UFC event management system. At the bas
 **Table: PPV**
 ![image](https://github.com/user-attachments/assets/12ef78d8-f57e-4cc3-9221-c7b04ff08c67)
 
+**Table: Fight Stats**
+![image](https://github.com/user-attachments/assets/15597a1c-f36a-4642-b003-8d1d6683c15e)
+
+**Table: Commentary Crew**
+![image](https://github.com/user-attachments/assets/6896e85b-d083-46c5-9ccc-3fbae6ee6ad2)
+
+**Table: Ref**
+
 
 **Queries:**
 ------------------------------
