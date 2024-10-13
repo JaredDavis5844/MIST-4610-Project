@@ -119,8 +119,11 @@ This query shows which fight length had highest PPV buys. This is helpful becaus
 ![image](https://github.com/user-attachments/assets/bb1a07a9-275c-4d37-8466-79bf828dd6aa)
 
 7. Query 7: Who fought the most in the top 10 PPV's.
-   <img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
 This is very useful information to know who fought the most in the top 10 PPV's. Knowing this can give fans an idea of who draws more PPV buys.
+
+
+<img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
+
 
 8. Query 8
 
