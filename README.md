@@ -119,13 +119,18 @@ This query shows which fight length had highest PPV buys. This is helpful becaus
 ![image](https://github.com/user-attachments/assets/bb1a07a9-275c-4d37-8466-79bf828dd6aa)
 
 7. Query 7: Who fought the most in the top 10 PPV's.
-This is very useful information to know who fought the most in the top 10 PPV's. Knowing this can give fans an idea of who draws more PPV buys.
+This is very useful information to know who fought the most in the top 10 PPV's. Knowing this can give fans an idea of who draws more PPV buys. 
 
 
 <img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
 
 
-8. Query 8
+8. Query 8: Different fighting styles.
+Showing the different fighting styles is important to understanding what Mixed Martial Arts is all about. Rather than just incorporating one kind of style like noxing, you can see there are several styles, which is what makes the UFC so unique.
+   
+
+ <img width="590" alt="Screenshot 2024-10-13 at 7 46 50 PM" src="https://github.com/user-attachments/assets/5284a1ee-5a16-4c43-bb9d-7d565352e38d">
+ 
 
 9. Query 9: Determine which city has held the most of these events.
 This would be useful to help determine where the UFC should hold events in the future.
