@@ -121,10 +121,11 @@ This query shows the fighters that won their fights with the highest social medi
 
 9. Query 9: Determine which city has held the most of these events.
 This would be useful to help determine where the UFC should hold events in the future.
+
 ![image](https://github.com/user-attachments/assets/23b201eb-d394-42b0-93b2-8bb34f246809)
 
 
-10. Query 10: List all the fighters on the highest selling PPV's alphabetically
+11. Query 10: List all the fighters on the highest selling PPV's alphabetically
 This would be useful for the UFC to know who their top selling fighters are.
 
 ![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
