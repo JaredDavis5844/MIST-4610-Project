@@ -105,7 +105,7 @@ This query will show the most exciting PPV events by having only the fights with
 ![image](https://github.com/user-attachments/assets/9fe58d5a-81db-4966-a79a-c3623fec8291)
 
 4. Query 4: Headshots to Significant strikes ratio and winner of each card:
-THis query shows the headshot percentage of significant strikes for each of the winners and their UFC Event Card.
+This query shows the headshot percentage of significant strikes for each of the winners and their UFC Event Card.
 ![image](https://github.com/user-attachments/assets/8cb4936a-756e-4ea9-bb39-77d104b66cae)
 
 6. Query 5
