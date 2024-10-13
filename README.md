@@ -108,20 +108,23 @@ This query will show the most exciting PPV events by having only the fights with
 This query shows the headshot percentage of significant strikes for each of the winners and their UFC Event Card. This could be helpful because it shows which fighters are most accurate in hitting headshots, and therefore are most likely to get knockouts.
 ![image](https://github.com/user-attachments/assets/8cb4936a-756e-4ea9-bb39-77d104b66cae)
 
-6. Query 5: Fight Winners with the highest social media following:
+5. Query 5: Fight Winners with the highest social media following:
 This query shows the fighters that won their fights with the highest social media following in descending order. This could be useful in determining which fighters have the biggest outreach and will sell the most PPV's.
 
 ![image](https://github.com/user-attachments/assets/44e6ca84-8a97-43dc-b0bd-4ecc78ab98db)
 
-7. Query 6
+6. Query 6
 
-9. Query 7
+7. Query 7
 
-10. Query 8
+8. Query 8
 
-11. Query 9
+9. Query 9: Determine which city has held the most of these events.
+This would be useful to help determine where the UFC should hold events in the future.
+![image](https://github.com/user-attachments/assets/23b201eb-d394-42b0-93b2-8bb34f246809)
 
-12. Query 10: List all the fighters on the highest selling PPV's alphabetically
+
+10. Query 10: List all the fighters on the highest selling PPV's alphabetically
 This would be useful for the UFC to know who their top selling fighters are.
 
 ![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
