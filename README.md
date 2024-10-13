@@ -120,7 +120,10 @@ This query shows the fighters that won their fights with the highest social medi
 
 11. Query 9
 
-12. Query 10
+12. Query 10: List all the fighters on the highest selling PPV's alphabetically
+This would be useful for the UFC to know who their top selling fighters are.
+![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
+
 
 **Database Information**
 ----------------------------
