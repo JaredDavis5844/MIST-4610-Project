@@ -108,17 +108,19 @@ This query will show the most exciting PPV events by having only the fights with
 This query shows the headshot percentage of significant strikes for each of the winners and their UFC Event Card.
 ![image](https://github.com/user-attachments/assets/8cb4936a-756e-4ea9-bb39-77d104b66cae)
 
-6. Query 5
+6. Query 5: Fight Winners with the highest social media following:
+This query shows the fighters that won their fights with the highest social media following in descending order.
+![image](https://github.com/user-attachments/assets/44e6ca84-8a97-43dc-b0bd-4ecc78ab98db)
 
 7. Query 6
 
-8. Query 7
+9. Query 7
 
-9. Query 8
+10. Query 8
 
-10. Query 9
+11. Query 9
 
-11. Query 10
+12. Query 10
 
 **Database Information**
 ----------------------------
