@@ -113,13 +113,16 @@ This query shows the fighters that won their fights with the highest social medi
 
 ![image](https://github.com/user-attachments/assets/44e6ca84-8a97-43dc-b0bd-4ecc78ab98db)
 
-6. Query 6
+6. Query 6: Which Finishing Round has highest PPV numbers:
+This query shows which fight length had highest PPV buys. This is helpful because it shows what length of time people are most engaged watching the fights for. Most viewers probably don't want to spend their money on a super quick finish but also don't want a long 25 minute fight with a decision. 
 
-7. Query 7
+![image](https://github.com/user-attachments/assets/bb1a07a9-275c-4d37-8466-79bf828dd6aa)
+
+7. Query 7: 
 
 8. Query 8
 
-9. Query 9: Determine which city has held the most of these events.
+10. Query 9: Determine which city has held the most of these events.
 This would be useful to help determine where the UFC should hold events in the future.
 
 ![image](https://github.com/user-attachments/assets/23b201eb-d394-42b0-93b2-8bb34f246809)
