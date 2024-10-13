@@ -92,7 +92,8 @@ Our model is based on the structure of a UFC event management system. At the bas
 **Queries:**
 ------------------------------
 
-1. Query 1
+1. Query 1: what happened in the biggest ppv of all time?
+This is important information to know, especially newcomers to ufc. we are able to see who participated in the biggest ppv ever, as well as the outcome and stats.
 
 2. Query 2
 
