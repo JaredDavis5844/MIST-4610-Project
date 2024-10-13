@@ -15,7 +15,7 @@ The goal of this project is to model and build a relational database that captur
 
 **Data Model**
 ------------------------------
-![image](https://github.com/user-attachments/assets/e21734dd-e3bd-4a1c-a13e-7174c5303ae8)
+![image](https://github.com/user-attachments/assets/bc56ff26-3f9e-4ce8-8d26-2600b25b02a7)
 
 
 **Explanation of Data Model:**
