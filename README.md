@@ -118,18 +118,19 @@ This query shows which fight length had highest PPV buys. This is helpful becaus
 
 ![image](https://github.com/user-attachments/assets/bb1a07a9-275c-4d37-8466-79bf828dd6aa)
 
-7. Query 7: <img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
-
+7. Query 7: Who fought the most in the top 10 PPV's.
+   <img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
+This is very useful information to know who fought the most in the top 10 PPV's. Knowing this can give fans an idea of who draws more PPV buys.
 
 8. Query 8
 
-10. Query 9: Determine which city has held the most of these events.
+9. Query 9: Determine which city has held the most of these events.
 This would be useful to help determine where the UFC should hold events in the future.
 
 ![image](https://github.com/user-attachments/assets/23b201eb-d394-42b0-93b2-8bb34f246809)
 
 
-11. Query 10: List all the fighters on the highest selling PPV's alphabetically
+10. Query 10: List all the fighters on the highest selling PPV's alphabetically
 This would be useful for the UFC to know who their top selling fighters are.
 
 ![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
