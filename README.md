@@ -60,7 +60,7 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 **Table: Loser of Headliner**
 
-![image](https://github.com/user-attachments/assets/e177ee2b-06db-4fe8-8e8c-0ac220f724f7)
+![image](https://github.com/user-attachments/assets/febe7e76-e3d2-4530-987d-c4636b45def9)
 
 
 **Table: Social Media Following**
