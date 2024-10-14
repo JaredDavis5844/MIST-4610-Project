@@ -55,38 +55,63 @@ Our model is based on the structure of a UFC event management system. At the bas
 ------------------------------
 **Table: Winner of Headliner**
 
-![image](https://github.com/user-attachments/assets/dd87befa-b490-4aa8-bb3e-05c2398271c3)
+![image](https://github.com/user-attachments/assets/ff0cadea-c1b8-4bcd-8187-9b95f1cc815e)
+
 
 **Table: Loser of Headliner**
 
-![image](https://github.com/user-attachments/assets/05ea4c32-143b-4428-9d56-eb32a29199e8)
+![image](https://github.com/user-attachments/assets/e177ee2b-06db-4fe8-8e8c-0ac220f724f7)
+
 
 **Table: Social Media Following**
 
-![image](https://github.com/user-attachments/assets/da00079b-f4bf-4123-b5d5-96f9274053b8)
+![image](https://github.com/user-attachments/assets/91315b65-c214-403b-a8af-35af4f77c2b6)
+
 
 **Table: Fight Kit**
 
-![image](https://github.com/user-attachments/assets/03f9e5bd-a73a-4d80-8ecf-cc8d13249001)
+![image](https://github.com/user-attachments/assets/5fe77501-1470-4f1f-8bdc-b3178489864e)
+
 
 **Table: Title Reign**
-
-![image](https://github.com/user-attachments/assets/2489457e-d8ef-4aa2-9929-758e66db04a2)
+	
+![image](https://github.com/user-attachments/assets/20cb46ee-2667-40fe-bcf7-0568db852650)
 
 
 **Table: PPV**
 
-![image](https://github.com/user-attachments/assets/12ef78d8-f57e-4cc3-9221-c7b04ff08c67)
+![image](https://github.com/user-attachments/assets/b8c9d75e-8b3e-4f11-b31f-7453182ea4b9)
+
 
 **Table: Fight Stats**
 
-![image](https://github.com/user-attachments/assets/15597a1c-f36a-4642-b003-8d1d6683c15e)
+![image](https://github.com/user-attachments/assets/9ae08720-0a40-4882-b9dd-645834af6f9b)
+
 
 **Table: Commentary Crew**
+	
+![image](https://github.com/user-attachments/assets/32954916-2a2e-4c67-976b-de389fe6f658)
 
-![image](https://github.com/user-attachments/assets/6896e85b-d083-46c5-9ccc-3fbae6ee6ad2)
 
 **Table: Ref**
+
+![image](https://github.com/user-attachments/assets/d9017823-d081-49a4-8bd5-94d843d935d3)
+
+**Table: Venue**
+
+![image](https://github.com/user-attachments/assets/12debf4e-de6f-4df6-88bf-d01d8a0ef864)
+
+**Table: Loser_of_Headliner_idLoser_of_Headliner**
+
+![image](https://github.com/user-attachments/assets/c962d0e3-ebb5-43c3-b8b6-e248ce48573b)
+
+**Table: Winner_of_Headliner_idWinner_of_Headliner**
+
+![image](https://github.com/user-attachments/assets/334d95ab-5059-447a-80f5-e241e5d8711b)
+
+**Table: Commentary_Crew_idCommentary_Crew**
+
+![image](https://github.com/user-attachments/assets/70361ebf-a1a5-4dde-a16e-19ebedd0b6f5)
 
 
 **Queries:**
