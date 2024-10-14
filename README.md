@@ -146,5 +146,5 @@ This would be useful for the UFC to know who their top selling fighters are.
 
 **Database Information**
 ----------------------------
-Name of the database: 
+Name of the database: cs_ldb60206
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
