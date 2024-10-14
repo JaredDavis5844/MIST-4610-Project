@@ -121,51 +121,47 @@ Our model is based on the structure of a UFC event management system. At the bas
 This is important information to know, especially newcomers to ufc. we are able to see who participated in the biggest ppv ever, as well as the outcome and stats.
 ![image](https://github.com/user-attachments/assets/bfd58d5f-5ed8-4155-954d-36eb209d1f0a)
 
+
 2. Query 2: Who are the Refs, How much experience, which has the highest Total PPVs?
 This query shows the most popular refs in the UFC. There are 3 Reoccurring Refs in the top 10 PPVs, Herb dean being the most popular with over 11 million total PPVS. Each ref has over 20 years of experience. The ref has a big influence on the fight, because an inexperienced ref would not know when to stop the fight or know all the rules.  
 ![image](https://github.com/user-attachments/assets/f5e28738-2b72-48c4-a76b-85940cdb3b3a)
+
 
 3. Query 3: PPV Events with Above Average Significant Strikes from the Winner:
 This query will show the most exciting PPV events by having only the fights with above average significant strikes. It shows the card number of the UFC Event and PPV Buys as well. This is important because the UFC promoters would probably want to see a correlation between more strikes being thrown and more PPV buys.
 ![image](https://github.com/user-attachments/assets/9fe58d5a-81db-4966-a79a-c3623fec8291)
 
+
 4. Query 4: Headshots to Significant strikes ratio and winner of each card:
 This query shows the headshot percentage of significant strikes for each of the winners and their UFC Event Card. This could be helpful because it shows which fighters are most accurate in hitting headshots, and therefore are most likely to get knockouts.
 ![image](https://github.com/user-attachments/assets/8cb4936a-756e-4ea9-bb39-77d104b66cae)
 
+
 5. Query 5: Fight Winners with the highest social media following:
 This query shows the fighters that won their fights with the highest social media following in descending order. This could be useful in determining which fighters have the biggest outreach and will sell the most PPV's.
-
 ![image](https://github.com/user-attachments/assets/44e6ca84-8a97-43dc-b0bd-4ecc78ab98db)
 
 6. Query 6: Which Finishing Round has highest PPV numbers:
 This query shows which fight length had highest PPV buys. This is helpful because it shows what length of time people are most engaged watching the fights for. Most viewers probably don't want to spend their money on a super quick finish but also don't want a long 25 minute fight with a decision. 
-
 ![image](https://github.com/user-attachments/assets/bb1a07a9-275c-4d37-8466-79bf828dd6aa)
 
 7. Query 7: Who fought the most in the top 10 PPV's.
 This is very useful information to know who fought the most in the top 10 PPV's. Knowing this can give fans an idea of who draws more PPV buys. 
-
-
 <img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
 
 
 8. Query 8: Different fighting styles.
 Showing the different fighting styles is important to understanding what Mixed Martial Arts is all about. Rather than just incorporating one kind of style like noxing, you can see there are several styles, which is what makes the UFC so unique.
-   
-
  <img width="590" alt="Screenshot 2024-10-13 at 7 46 50 PM" src="https://github.com/user-attachments/assets/5284a1ee-5a16-4c43-bb9d-7d565352e38d">
  
 
 9. Query 9: Determine which city has held the most of these events.
 This would be useful to help determine where the UFC should hold events in the future.
-
 ![image](https://github.com/user-attachments/assets/23b201eb-d394-42b0-93b2-8bb34f246809)
 
 
 10. Query 10: List all the fighters on the highest selling PPV's alphabetically
 This would be useful for the UFC to know who their top selling fighters are.
-
 ![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
 
 
