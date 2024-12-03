@@ -56,49 +56,33 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 **Data Dictionary**
 ------------------------------
-**Table: Winner of Headliner**
+**Table: Fighter of Headliner**
 
-![image](https://github.com/user-attachments/assets/ff0cadea-c1b8-4bcd-8187-9b95f1cc815e)
-
-
-**Table: Loser of Headliner**
-
-![image](https://github.com/user-attachments/assets/57461bba-96b2-4f86-aa0c-8cf1907ee46d)
-
+![image](https://github.com/user-attachments/assets/e6b3900a-73cc-492b-a69f-5948b81eb05e)
 
 **Table: Social Media Following**
 
-![image](https://github.com/user-attachments/assets/91315b65-c214-403b-a8af-35af4f77c2b6)
-
-
-**Table: Fight Kit**
-
-![image](https://github.com/user-attachments/assets/5fe77501-1470-4f1f-8bdc-b3178489864e)
-
+![image](https://github.com/user-attachments/assets/2da6bcd9-7587-465f-bc53-bca34a90c9c7)
 
 **Table: Title Reign**
-	
-![image](https://github.com/user-attachments/assets/20cb46ee-2667-40fe-bcf7-0568db852650)
 
+![image](https://github.com/user-attachments/assets/3137db49-971c-4f93-92e4-c94d3e59e651)
 
-**Table: PPV**
+**Table: Head Coaches**
 
-![image](https://github.com/user-attachments/assets/b8c9d75e-8b3e-4f11-b31f-7453182ea4b9)
-
+![image](https://github.com/user-attachments/assets/71394af6-a128-429f-91aa-89d7670ef2b4)
 
 **Table: Fight Stats**
 
-![image](https://github.com/user-attachments/assets/9ae08720-0a40-4882-b9dd-645834af6f9b)
+![image](https://github.com/user-attachments/assets/9a40191a-1010-4e40-a887-1a30e9d34211)
 
+**Table: PPV Main Event**
 
-**Table: Commentary Crew**
-	
-![image](https://github.com/user-attachments/assets/32954916-2a2e-4c67-976b-de389fe6f658)
-
+![image](https://github.com/user-attachments/assets/eaebb84d-4a33-40fe-9fbc-14803da907a6)
 
 **Table: Ref**
 
-![image](https://github.com/user-attachments/assets/d9017823-d081-49a4-8bd5-94d843d935d3)
+![image](https://github.com/user-attachments/assets/af7ca196-918f-4890-b09e-1a2b558e7e7f)
 
 **Table: Venue**
 
