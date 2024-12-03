@@ -120,18 +120,14 @@ Our model is based on the structure of a UFC event management system. At the bas
 **Queries:**
 ------------------------------
 
-**1. Query 1: what happened in the biggest ppv of all time?**
+**1. Query 1: 
 
-This is important information to know, especially with newcomers to ufc. Here we are able to see who participated in the biggest ppv ever, as well as the outcome and stats.
-
-![image](https://github.com/user-attachments/assets/bfd58d5f-5ed8-4155-954d-36eb209d1f0a)
+<img width="1220" alt="Screenshot 2024-11-20 at 7 54 32 PM" src="https://github.com/user-attachments/assets/7e98d26e-eb56-4594-a71b-5d0870f87244">
 
 
-**2. Query 2: Who are the Refs, How much experience, which has the highest Total PPVs?**
+**2. 
 
-This query shows the most popular refs in the UFC. There are 3 Reoccurring Refs in the top 10 PPVs, Herb dean being the most popular with over 11 million total PPVS. Each ref has over 20 years of experience. The ref has a big influence on the fight, because an inexperienced ref would not know when to stop the fight or know all the rules.
-
-![image](https://github.com/user-attachments/assets/f5e28738-2b72-48c4-a76b-85940cdb3b3a)
+<img width="1680" alt="Screenshot 2024-11-25 at 1 00 42 PM" src="https://github.com/user-attachments/assets/93009f78-9162-4bfa-8ace-404495a34713">
 
 
 **3. Query 3: PPV Events with Above Average Significant Strikes from the Winner:**
