@@ -82,7 +82,7 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 **Table: Ref**
 
-![image](https://github.com/user-attachments/assets/af7ca196-918f-4890-b09e-1a2b558e7e7f)
+![image](https://github.com/user-attachments/assets/ce504182-fb43-41b5-a0f6-37ddd1dcb325)
 
 **Table: Venue**
 
