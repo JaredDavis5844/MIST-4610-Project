@@ -90,7 +90,7 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 **Table: Commentary_Crew_idCommentary_Crew**
 
-![image](https://github.com/user-attachments/assets/70361ebf-a1a5-4dde-a16e-19ebedd0b6f5)
+
 
 
 **Queries:**
