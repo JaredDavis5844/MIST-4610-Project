@@ -127,7 +127,9 @@ This query shows the coaches who coach the fighters with the most wins. Being ab
 <img width="1220" alt="Screenshot 2024-11-20 at 7 54 32 PM" src="https://github.com/user-attachments/assets/7e98d26e-eb56-4594-a71b-5d0870f87244">
 
 
-**2. 
+**2. Total Overall Stats
+
+This query combines data from many tables to present an overall stats structure. Being able to see different fighters' stats is very helpful to know how they like to fight, and how their fight style sells.
 
 <img width="1227" alt="Screenshot 2024-11-20 at 8 16 23 PM" src="https://github.com/user-attachments/assets/f6a2b065-a9e6-4ac2-9c82-4261b97bb492">
 
@@ -153,38 +155,7 @@ This query shows the fighters that won their fights with the highest social medi
 
 ![image](https://github.com/user-attachments/assets/44e6ca84-8a97-43dc-b0bd-4ecc78ab98db)
 
-**6. Query 6: Which Finishing Round has highest PPV numbers:**
 
-This query shows which fight length had highest PPV buys. This is helpful because it shows what length of time people are most engaged watching the fights for. Most viewers probably don't want to spend their money on a super quick finish but also don't want a long 25 minute fight with a decision. 
-
-![image](https://github.com/user-attachments/assets/bb1a07a9-275c-4d37-8466-79bf828dd6aa)
-
-**7. Query 7: Who fought the most in the top 10 PPV's.**
-
-This is very useful information to know who fought the most in the top 10 PPV's. Knowing this can give fans an idea of who draws more PPV buys. 
-
-<img width="598" alt="Screenshot 2024-10-13 at 7 17 29 PM" src="https://github.com/user-attachments/assets/be5ca871-c0e4-46ed-8b8e-7e8ad32926df">
-
-
-**8. Query 8: Different fighting styles.**
-
-Showing the different fighting styles is important to understanding what Mixed Martial Arts is all about. Rather than just incorporating one kind of style like noxing, you can see there are several styles, which is what makes the UFC so unique.
-
-<img width="590" alt="Screenshot 2024-10-13 at 7 46 50 PM" src="https://github.com/user-attachments/assets/5284a1ee-5a16-4c43-bb9d-7d565352e38d">
- 
-
-**9. Query 9: Determine which city has held the most of these events.**
-
-This would be useful to help determine where the UFC should hold events in the future.
-
-![image](https://github.com/user-attachments/assets/23b201eb-d394-42b0-93b2-8bb34f246809)
-
-
-**10. Query 10: List all the fighters on the highest selling PPV's alphabetically**
-
-This would be useful for the UFC to know who their top selling fighters are.
-
-![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
 
 **Tableau Visualization 1:**
 
