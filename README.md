@@ -58,43 +58,35 @@ Our model is based on the structure of a UFC event management system. At the bas
 ------------------------------
 **Table: Fighter of Headliner**
 
-![image](https://github.com/user-attachments/assets/e6b3900a-73cc-492b-a69f-5948b81eb05e)
+![image](https://github.com/user-attachments/assets/90e6e88b-cf3d-4c87-a945-1150ec5f195b)
 
 **Table: Social Media Following**
 
-![image](https://github.com/user-attachments/assets/2da6bcd9-7587-465f-bc53-bca34a90c9c7)
+![image](https://github.com/user-attachments/assets/72190035-241e-4da3-bd64-4a7276fcf172)
 
 **Table: Title Reign**
 
-![image](https://github.com/user-attachments/assets/3137db49-971c-4f93-92e4-c94d3e59e651)
+![image](https://github.com/user-attachments/assets/c05e3a71-479b-4d42-ac6a-f336492d156a)
 
 **Table: Head Coaches**
 
-![image](https://github.com/user-attachments/assets/71394af6-a128-429f-91aa-89d7670ef2b4)
+![image](https://github.com/user-attachments/assets/6cf076f8-247d-49c6-a1e7-74928a2a450a)
 
 **Table: Fight Stats**
 
-![image](https://github.com/user-attachments/assets/9a40191a-1010-4e40-a887-1a30e9d34211)
+![image](https://github.com/user-attachments/assets/52cc7d2e-85ea-4435-98b9-727d328266c6)
 
 **Table: PPV Main Event**
 
-![image](https://github.com/user-attachments/assets/eaebb84d-4a33-40fe-9fbc-14803da907a6)
+![image](https://github.com/user-attachments/assets/0c40d09c-20ac-4737-8f43-891362f3e44d)
 
 **Table: Ref**
 
-![image](https://github.com/user-attachments/assets/ce504182-fb43-41b5-a0f6-37ddd1dcb325)
+![image](https://github.com/user-attachments/assets/14e59732-a5c4-4f59-9d5d-4d06e062c998)
 
 **Table: Venue**
 
 ![image](https://github.com/user-attachments/assets/12debf4e-de6f-4df6-88bf-d01d8a0ef864)
-
-**Table: Loser_of_Headliner_idLoser_of_Headliner**
-
-![image](https://github.com/user-attachments/assets/c962d0e3-ebb5-43c3-b8b6-e248ce48573b)
-
-**Table: Winner_of_Headliner_idWinner_of_Headliner**
-
-![image](https://github.com/user-attachments/assets/334d95ab-5059-447a-80f5-e241e5d8711b)
 
 **Table: Commentary_Crew_idCommentary_Crew**
 
