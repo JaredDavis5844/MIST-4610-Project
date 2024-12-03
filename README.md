@@ -187,7 +187,11 @@ This would be useful for the UFC to know who their top selling fighters are.
 
 ![image](https://github.com/user-attachments/assets/883a6e74-356e-4b70-91a5-9ecb27176794)
 
+Tableau Visualization 1:
+
 ![output (5)](https://github.com/user-attachments/assets/e293d41f-0390-4d26-9fb7-f78ad2991138)
+
+Tableau Visualization 2:
 
 ![output (6)](https://github.com/user-attachments/assets/0a718c14-54b8-4e09-bc6a-2463f2314322)
 
@@ -196,6 +200,6 @@ This would be useful for the UFC to know who their top selling fighters are.
 
 **Database Information**
 ----------------------------
-Name of the database: cs_ldb60206
+Name of the database: cs_gcr34350
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1
