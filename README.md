@@ -11,7 +11,7 @@ MIST 4610 Project 1 (Query Weary)
 
 **Problem Description:**
 ------------------------------
-The goal of this project is to model and build a relational database that captures the main details surronding UFC events, fighters, and associated statistics. The central entity in this data model is the PPV (Pay-Per-View) event, which acts as the main event for the UFC organization. Each PPV is composed of various **headliner fights** , featuring a **winner** and **loser** , whose specific details are recorded. Additionally, we are interested in tracking other important aspects such as the **venue, commentary crew, and social media following** of the UFC fighers. Furthermore, we aim to perform functional queries on this data to provide valuable insights into UFC operations, fight statistics, and fighter performances. 
+The goal of this project is to model and build a relational database that captures the main details surronding UFC events, fighters, and associated statistics. The central entity in this data model is the PPV (Pay-Per-View) Main Event, which is the final fight of the night for the UFC Event. Each PPV is composed of various **headliner fights** , featuring multiple fighters whose specific attributes are recorded. Additionally, we are interested in tracking other important aspects such as the **venue, commentary crew, and social media following** of the UFC fighers. Furthermore, we aim to perform functional queries on this data to provide valuable insights into UFC operations, fight statistics, and fighter performances. 
 
 **Data Model**
 ------------------------------
@@ -21,7 +21,7 @@ The goal of this project is to model and build a relational database that captur
 
 **Explanation of Data Model:**
 
-Our model is based on the structure of a UFC event management system. At the base of the model is the PPV entity, which represents each major UFC event. Each of the PPV event involves several entities, including fighters, commentary crew, venues, referees, and detailed statistics about the fights. Each fighter in the PPV has a corresponding social media following, title reign history, head coach, and fight kit.
+Our model is based on the structure of a UFC event management system. At the base of the model is the PPV Main Event entity, which each represent an individual UFC fight. Each PPV Main Event involves several entities, including fighters, commentary crew, venues, referees, and detailed statistics about the fights. Each fighter in the PPV has a corresponding social media following, title reign history, head coach, and fight kit.
 
 * PPV Main Event: This entity is the central focus, capturing the event's details like the card number, date, PPV buys, and gate revenue. A one-to-many relationship exists between the PPV and the venue where the event takes place, as each PPV event occurs in a specific venue. It also has a many-to-many relationship with Fighters of Headliner as there can be multiple fighters on each main event and each fighter can be on multiple different PPVs. 
 
@@ -41,15 +41,18 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 * Referees: Referees officiate the fights, and their experience and performance (e.g., points deducted from fighters) are tracked. There is a one-to-many relationship between referees and PPV events, as a referee can officiate multiple events but each fight has a single referee.
 
+* PPV Main Event Has Fighters of Headliner: This entitiy identifies which fighter fought in which event, whether they won or lost the event, and whether the challenger (underdog in the fight) won or lost.
+
 **Key Relationships:**
 
-* Fighters (Winner/Loser) ↔ Fight Kit: Fighters wear specific gear (fight kit) during each event, so a many-to-one relationship exists between these entities.
+* Fighters ↔ Fight Kit: Fighters wear one set of specific gear (fight kit) during each event, so a one-to-one relationship exists between these entities.
 * Fighters ↔ Title Reign: Fighters may have title reigns that are tracked for championships they hold or defend, creating a one-to-one relationship.
-* PPV ↔ Venue: A PPV event occurs at a specific venue, creating a many-to-one relationship.
-* PPV ↔ Commentary Crew: Multiple commentary crew members work on a single PPV event, creating a one-to-many relationship.
-* Fighters (Winner/Loser) ↔ Social Media Following: Each fighter has an associated social media following, creating a one-to-one relationship.
+* PPV ↔ Venue: A PPV event occurs at one specific venue and one venue can host many PPV events creating a many-to-one relationship.
+* PPV ↔ Commentary Crew: One commentary crew can work on multiple PPVs. Each PPV only has one commentary crew, creating a one-to-many relationship.
+* Fighters ↔ Social Media Following: Each fighter has an associated social media following, creating a one-to-one relationship.
 * PPV ↔ Referees: Each fight within a PPV event has one referee, so there is a one-to-many relationship between referees and the PPV.
 * PPV ↔ Fight Stats: Fight statistics are tied to each PPV event to analyze fighter performance.
+* Fighter ↔ Head Coach: Each fighter has one head coach, a head coach can mentor multiple fighters. This represents a one-to-many relationship between fighters and head coaches.
 
 **Data Dictionary**
 ------------------------------
