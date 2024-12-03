@@ -1,5 +1,5 @@
 # MIST-4610-Project
-MIST 4610 Project 1 (Query Weary)
+MIST 4610 Project 2 (Query Weary)
 
 **Team Members:**
 ------------------------------
