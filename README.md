@@ -127,7 +127,7 @@ This query shows the coaches who coach the fighters with the most wins. Being ab
 <img width="1220" alt="Screenshot 2024-11-20 at 7 54 32 PM" src="https://github.com/user-attachments/assets/7e98d26e-eb56-4594-a71b-5d0870f87244">
 
 
-**2. Total Overall Stats
+**2. Query 2: Total Overall Stats
 
 This query combines data from many tables to present an overall stats structure. Being able to see different fighters' stats is very helpful to know how they like to fight, and how their fight style sells.
 
