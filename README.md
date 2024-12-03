@@ -120,7 +120,9 @@ Our model is based on the structure of a UFC event management system. At the bas
 **Queries:**
 ------------------------------
 
-**1. Query 1: 
+**1. Query 1: Coaches of Fighters with Most Wins
+
+This query shows the coaches who coach the fighters with the most wins. Being able to familiarize with the biggest coaches is helpful for new UFC fans. You can also use these stats to determine who the best coach of all time is, and open up debates.
 
 <img width="1220" alt="Screenshot 2024-11-20 at 7 54 32 PM" src="https://github.com/user-attachments/assets/7e98d26e-eb56-4594-a71b-5d0870f87244">
 
