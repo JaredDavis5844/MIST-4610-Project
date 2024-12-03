@@ -21,11 +21,11 @@ The goal of this project is to model and build a relational database that captur
 
 **Explanation of Data Model:**
 
-Our model is based on the structure of a UFC event management system. At the base of the model is the PPV entity, which represents each major UFC event. Each of the PPV event involves several entities, including fighters, commentary crew, venues, referees, and detailed statistics about the fights.
+Our model is based on the structure of a UFC event management system. At the base of the model is the PPV entity, which represents each major UFC event. Each of the PPV event involves several entities, including fighters, commentary crew, venues, referees, and detailed statistics about the fights. Each fighter in the PPV has a corresponding social media following, title reign history, head coach, and fight kit.
 
-* PPV Events: This entity is the central focus, capturing the event's details like the card number, date, PPV buys, and gate revenue. A one-to-many relationship exists between the PPV and the venue where the event takes place, as each PPV event occurs in a specific venue.
+* PPV Main Event: This entity is the central focus, capturing the event's details like the card number, date, PPV buys, and gate revenue. A one-to-many relationship exists between the PPV and the venue where the event takes place, as each PPV event occurs in a specific venue. It also has a many-to-many relationship with Fighters of Headliner as there can be multiple fighters on each main event and each fighter can be on multiple different PPVs. 
 
-* Fighters (Winner of Headliner and Loser of Headliner): Fighters are categorized based on whether they win or lose a headliner fight. Each fighter has attributes such as name, country of origin, fighting style, record (wins/losses), and physical characteristics (e.g., height, reach, weight class). Both the winner and loser entities have relationships with Title Reign, which tracks title defenses and championship status.
+* Fighters of Headiner: Each fighter has attributes such as name, country of origin, fighting style, record (wins/losses), and physical characteristics (e.g., height, reach, weight class). Each fighter has a relationships with Title Reign, Social Media following, Fight Hit, and Head Coach entities. Fighters have a many-to-many relationship with PPV Main event.
 
 * Fight Stats: Detailed statistics for each fight are recorded, including rounds, time, significant strikes, and control time. These statistics provide insight into the performance of each fighter during the event.
 
