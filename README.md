@@ -127,7 +127,8 @@ Our model is based on the structure of a UFC event management system. At the bas
 
 **2. 
 
-<img width="1680" alt="Screenshot 2024-11-25 at 1 00 42 PM" src="https://github.com/user-attachments/assets/93009f78-9162-4bfa-8ace-404495a34713">
+<img width="1227" alt="Screenshot 2024-11-20 at 8 16 23 PM" src="https://github.com/user-attachments/assets/f6a2b065-a9e6-4ac2-9c82-4261b97bb492">
+
 
 
 **3. Query 3: PPV Events with Above Average Significant Strikes from the Winner:**
