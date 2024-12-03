@@ -186,6 +186,9 @@ This would be useful for the UFC to know who their top selling fighters are.
 
 ![output (5)](https://github.com/user-attachments/assets/e293d41f-0390-4d26-9fb7-f78ad2991138)
 
+![output (6)](https://github.com/user-attachments/assets/0a718c14-54b8-4e09-bc6a-2463f2314322)
+
+
 
 
 **Database Information**
