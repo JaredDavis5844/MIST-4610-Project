@@ -188,11 +188,23 @@ This would be useful for the UFC to know who their top selling fighters are.
 
 **Tableau Visualization 1:**
 
+This bar graph shows the top 5 UFC fighters by how many Instagram followers they have. This is useful to see which fighters bring in the most attention.
+
 ![output (5)](https://github.com/user-attachments/assets/e293d41f-0390-4d26-9fb7-f78ad2991138)
+
 
 **Tableau Visualization 2:**
 
+This bar graph shows the average number of PPV buys associated with each venue. This can tell us where the UFC usually holds its most exciting fights.
+
 ![output (6)](https://github.com/user-attachments/assets/0a718c14-54b8-4e09-bc6a-2463f2314322)
+
+**Tableau Visualization 3:**
+
+This line graph displays the number of PPV buys for each event through time. Our oldest piece of data was in 2008 and our most recent took place in 2024. There are two big spikes and those represent UFC 200 which was a massive event at the time, and UFC 229, which was the fight between Conor McGregor and Khabib Nurmagomedov which is considered the biggest fight in the history of the organization.
+
+![image](https://github.com/user-attachments/assets/32faca22-b2d8-4207-b34c-2bc912e1d3c7)
+
 
 
 
