@@ -133,6 +133,7 @@ This query shows the fighters that are above average height in their own respect
 
 
 
+
 **Tableau Visualization 1:**
 
 This bar graph shows the top 5 UFC fighters by how many Instagram followers they have. This is useful to see which fighters bring in the most attention.
