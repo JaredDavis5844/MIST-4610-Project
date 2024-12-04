@@ -129,8 +129,7 @@ This query shows the headshot percentage of significant strikes for each of the 
 
 This query shows the fighters that are above average height in their own respective weight class, and have atleast one title defense. This is a very useful statistic that answers the question of how much of an advantage it is to be a taller fighter in your weight class. A lot of great fighters have been above average height in their weight class so it is cool to see.
 
-![image](
-
+![image](https://github.com/JaredDavis5844/MIST-4610-Project/blob/main/query5.png?raw=true)
 
 
 **Tableau Visualization 1:**
