@@ -125,12 +125,11 @@ This query shows the headshot percentage of significant strikes for each of the 
 
 ![image](https://github.com/user-attachments/assets/8cb4936a-756e-4ea9-bb39-77d104b66cae)
 
+**5. Query 5: Fighters that are above average height in their weight class and have atleast one title defense**
 
-**5. Query 5: Fight Winners with the highest social media following:**
+This query shows the fighters that are above average height in their own respective weight class, and have atleast one title defense. This is a very useful statistic that answers the question of how much of an advantage it is to be a taller fighter in your weight class. A lot of great fighters have been above average height in their weight class so it is cool to see.
 
-This query shows the fighters that won their fights with the highest social media following in descending order. This could be useful in determining which fighters have the biggest outreach and will sell the most PPV's.
-
-![image](https://github.com/user-attachments/assets/44e6ca84-8a97-43dc-b0bd-4ecc78ab98db)
+![image](
 
 
 
